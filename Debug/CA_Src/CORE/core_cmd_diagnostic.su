@@ -1,0 +1,13 @@
+../CA_Src/CORE/core_cmd_diagnostic.c:86:16:PC_ReadFwRev	24	static
+../CA_Src/CORE/core_cmd_diagnostic.c:110:16:PC_WriteSn	48	static
+../CA_Src/CORE/core_cmd_diagnostic.c:154:16:PC_WriteCpth	32	static
+../CA_Src/CORE/core_cmd_diagnostic.c:173:16:PC_ReadCpth	32	static
+../CA_Src/CORE/core_cmd_diagnostic.c:201:13:voSwapSpecByteOrder	16	static
+../CA_Src/CORE/core_cmd_diagnostic.c:210:16:PC_ReadSpec	32	static
+../CA_Src/CORE/core_cmd_diagnostic.c:227:16:PC_WriteSpec	32	static
+../CA_Src/CORE/core_cmd_diagnostic.c:256:16:PC_Etalonnage	32	static
+../CA_Src/CORE/core_cmd_diagnostic.c:317:16:PC_ReadMeasure	56	static
+../CA_Src/CORE/core_cmd_diagnostic.c:378:16:PC_SimuMeasure	40	static
+../CA_Src/CORE/core_cmd_diagnostic.c:405:16:PC_ReglageSa	32	static
+../CA_Src/CORE/core_cmd_diagnostic.c:435:6:voCoreCmdDiagnostic_Init	4	static
+../CA_Src/CORE/core_cmd_diagnostic.c:461:9:CoreCmdDiagnostic_Process	192	static

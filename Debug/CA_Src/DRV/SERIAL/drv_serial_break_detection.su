@@ -1,0 +1,10 @@
+../CA_Src/DRV/SERIAL/drv_serial_break_detection.c:75:6:voDrvSerialDetection_Init	16	static
+../CA_Src/DRV/SERIAL/drv_serial_break_detection.c:108:13:voDrvDetection_Open	16	static
+../CA_Src/DRV/SERIAL/drv_serial_break_detection.c:119:6:voDrvSerialDetectionBreak_Open	16	static
+../CA_Src/DRV/SERIAL/drv_serial_break_detection.c:128:6:voDrvSerialDetectionIdle_Open	24	static
+../CA_Src/DRV/SERIAL/drv_serial_break_detection.c:152:13:voDrvDetection_Close	24	static
+../CA_Src/DRV/SERIAL/drv_serial_break_detection.c:173:6:voDrvSerialDetectionBreak_Close	16	static
+../CA_Src/DRV/SERIAL/drv_serial_break_detection.c:185:6:voDrvSerialDetectionIdle_Close	16	static
+../CA_Src/DRV/SERIAL/drv_serial_break_detection.c:207:6:voDrvSerialDetectionBreak_Refresh	16	static
+../CA_Src/DRV/SERIAL/drv_serial_break_detection.c:215:6:voDrvSerialDetectionIdle_Refresh	16	static
+../CA_Src/DRV/SERIAL/drv_serial_break_detection.c:234:13:voDrvDetection_Process	48	static

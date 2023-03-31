@@ -1,0 +1,13 @@
+C:\Users\aseervatham\Documents\MCUXpressoIDE_11.5.0_7232\WorkSpace_Ipgn\IPGN\drivers/fsl_gpio.h:162:20:GPIO_PinWrite	24	static
+C:\Users\aseervatham\Documents\MCUXpressoIDE_11.5.0_7232\WorkSpace_Ipgn\IPGN\drivers/fsl_gpio.h:244:24:GPIO_PinRead	16	static
+../CA_Src/DRV/BSP/drv_board_gpio.c:46:13:voDrvGpio_OnOffLedLum	56	static
+../CA_Src/DRV/BSP/drv_board_gpio.c:64:6:voDrvGpio_OffLedLum	16	static
+../CA_Src/DRV/BSP/drv_board_gpio.c:69:6:voDrvGpio_OnLedLum	16	static
+../CA_Src/DRV/BSP/drv_board_gpio.c:86:6:voDrvGpio_VoltmetreSelectVoie	16	static
+../CA_Src/DRV/BSP/drv_board_gpio.c:94:10:u32DrvGpio_VoltmetreReadBascule	8	static
+../CA_Src/DRV/BSP/drv_board_gpio.c:110:9:u8DrvGpio_ReadLedCmd	64	static
+../CA_Src/DRV/BSP/drv_board_gpio.c:142:6:DrvGpio_DebugToggle	8	static
+../CA_Src/DRV/BSP/drv_board_gpio.c:161:6:DrvGpio_ResetPhy	8	static
+../CA_Src/DRV/BSP/drv_board_gpio.c:166:6:DrvGpio_NoResetPhy	8	static
+../CA_Src/DRV/BSP/drv_board_gpio.c:182:9:DrvGpio_GetSwitchState	16	static
+../CA_Src/DRV/BSP/drv_board_gpio.c:202:9:DrvGpio_GetUart0RxLevel	16	static

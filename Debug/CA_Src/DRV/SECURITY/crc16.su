@@ -1,0 +1,2 @@
+../CA_Src/DRV/SECURITY/crc16.c:91:16:CRC16_calc	24	static
+../CA_Src/DRV/SECURITY/crc16.c:128:16:CRC16_ComputeOnBuffer	24	static

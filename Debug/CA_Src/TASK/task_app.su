@@ -1,0 +1,4 @@
+../CA_Src/TASK/task_app.c:109:13:voModeSimu_ProcessTimeout	4	static
+../CA_Src/TASK/task_app.c:125:9:u8TaskApp_GetModeFct	4	static
+../CA_Src/TASK/task_app.c:141:6:voTaskApp_GetSMeasure	16	static
+../CA_Src/TASK/task_app.c:157:6:task_app	64	static

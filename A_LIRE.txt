@@ -1,0 +1,25 @@
+Fichier task_serial.c
+----------------------
+Rendre ces parametres dynamiques
+
+#define IDLE_TIMEOUT	( 500 )	// ms
+const uint8_t g_u8AnemoGirModbusTx[] = {0x01, 0x04, 0x00, 0x00, 0x00, 0x02, 0x71, 0xCB};
+const uint8_t g_u8EnableAutomate = false;
+static uint8_t g_u8RequestMbusSend = false;
+
+Fichier core_spec.c
+----------------------
+Ajouter la gestion de ces capteurs
+//debug Ajith
+//G_DeviceCfg.sSpec.u32Type = SPEC_TYPE_ANEMOGIR_CA_VITESSE;
+G_DeviceCfg.sSpec.u32Type = SPEC_TYPE_ANEMOGIR_CA_CAP;
+
+
+Principe de fonctionnement
+---------------------------
+C'est un mockup pour le port de Marseille qui a besoin d'une anemogirouette + 2ipgn pour indiquer la vitesse et
+la direction du vent.
+Pour simplifier le dev il faut configurer un ipgn en mode automate et l'autre en mode espion, c'est ce qui a été implémenté.
+
+Reste à faire
+Il faut temporiser l'alarme defaut mesure

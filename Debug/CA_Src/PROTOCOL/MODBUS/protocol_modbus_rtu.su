@@ -1,0 +1,2 @@
+../CA_Src/PROTOCOL/MODBUS/protocol_modbus_rtu.c:42:9:DrvProtoModbusRtu_Check	32	static
+../CA_Src/PROTOCOL/MODBUS/protocol_modbus_rtu.c:82:9:DrvProtoModbusRtu_Build	24	static

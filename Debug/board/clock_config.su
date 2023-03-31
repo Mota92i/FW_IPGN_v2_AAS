@@ -1,0 +1,5 @@
+C:\Users\aseervatham\Documents\MCUXpressoIDE_11.5.0_7232\WorkSpace_Ipgn\IPGN\drivers/fsl_clock.h:889:20:CLOCK_SetSimSafeDivs	4	static
+C:\Users\aseervatham\Documents\MCUXpressoIDE_11.5.0_7232\WorkSpace_Ipgn\IPGN\drivers/fsl_clock.h:1229:20:CLOCK_SetXtal0Freq	16	static
+../board/clock_config.c:72:13:CLOCK_CONFIG_SetFllExtRefDiv	16	static
+../board/clock_config.c:80:6:BOARD_InitBootClocks	8	static
+../board/clock_config.c:159:6:BOARD_BootClockRUN	8	static

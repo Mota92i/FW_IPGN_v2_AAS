@@ -1,0 +1,3 @@
+CA_Src/DRV/SECURITY/crc16.o CA_Src/DRV/SECURITY/crc16.d: \
+ ../CA_Src/DRV/SECURITY/crc16.c ../CA_Src/DRV/SECURITY/crc16.h
+../CA_Src/DRV/SECURITY/crc16.h:

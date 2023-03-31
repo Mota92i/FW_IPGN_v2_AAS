@@ -1,0 +1,3 @@
+../CA_Src/CORE/core_mode_fonctionnement.c:57:13:voCoreModeFonctionnement_ProcessTimeout	4	static
+../CA_Src/CORE/core_mode_fonctionnement.c:73:9:u8CoreModeFonctionnement_GetMode	4	static
+../CA_Src/CORE/core_mode_fonctionnement.c:89:6:voCoreModeFonctionnement_SetMode	32	static

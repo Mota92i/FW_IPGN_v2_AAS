@@ -1,0 +1,2 @@
+../CA_Src/DRV/SERIAL/drv_serial.c:52:22:psDrvSerial_GetInterface	24	static
+../CA_Src/DRV/SERIAL/drv_serial.c:75:6:voDrvSerial_Init	8	static

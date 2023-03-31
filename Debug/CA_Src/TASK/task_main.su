@@ -1,0 +1,6 @@
+C:\Users\aseervatham\Documents\MCUXpressoIDE_11.5.0_7232\WorkSpace_Ipgn\IPGN\CMSIS/core_cm4.h:1933:34:__NVIC_SystemReset	4	static
+../CA_Src/TASK/task_main.c:171:13:voCreateAllTask	16	static
+../CA_Src/TASK/task_main.c:192:6:voTaskMain_FlagResetSet	4	static
+../CA_Src/TASK/task_main.c:198:6:voTaskMain_FlagErrorSetMacAdr	4	static
+../CA_Src/TASK/task_main.c:214:6:voTaskMain_SetBackGroundSave	4	static
+../CA_Src/TASK/task_main.c:231:6:task_main	16	static

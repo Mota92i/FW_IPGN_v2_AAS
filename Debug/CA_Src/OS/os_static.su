@@ -1,0 +1,2 @@
+../CA_Src/OS/os_static.c:43:6:vApplicationGetIdleTaskMemory	24	static
+../CA_Src/OS/os_static.c:80:6:vApplicationGetTimerTaskMemory	24	static

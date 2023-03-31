@@ -1,0 +1,5 @@
+../CA_Src/OS/os_semaphore.c:64:6:voOsSemaphore_Init	32	static
+../CA_Src/OS/os_semaphore.c:90:6:voOsSemaphore_MsDlyTmrTake	8	static
+../CA_Src/OS/os_semaphore.c:95:6:voOsSemaphore_MsDlyTmrGive	8	static
+../CA_Src/OS/os_semaphore.c:111:6:voOsSemaphore_EepromTake	8	static
+../CA_Src/OS/os_semaphore.c:116:6:voOsSemaphore_EepromGive	8	static

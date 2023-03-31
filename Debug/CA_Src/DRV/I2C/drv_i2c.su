@@ -1,0 +1,3 @@
+../CA_Src/DRV/I2C/drv_i2c.c:52:16:DrvI2c_ReadWrite	56	static
+../CA_Src/DRV/I2C/drv_i2c.c:99:9:DrvI2c_Write	16	static
+../CA_Src/DRV/I2C/drv_i2c.c:116:9:DrvI2c_Read	16	static

@@ -1,0 +1,17 @@
+../CA_Src/CORE/core_cmd_pc_over_udp.c:76:16:hexAsciiToDecimal	32	static
+../CA_Src/CORE/core_cmd_pc_over_udp.c:118:15:PC_ComEnable	16	static
+../CA_Src/CORE/core_cmd_pc_over_udp.c:127:15:PC_ComDisable	16	static
+../CA_Src/CORE/core_cmd_pc_over_udp.c:136:15:PC_ComState	16	static
+../CA_Src/CORE/core_cmd_pc_over_udp.c:146:15:PC_ComSpeed	32	static
+../CA_Src/CORE/core_cmd_pc_over_udp.c:219:15:PC_ComParity	32	static
+../CA_Src/CORE/core_cmd_pc_over_udp.c:269:15:PC_ComStop	24	static
+../CA_Src/CORE/core_cmd_pc_over_udp.c:297:15:PC_Firmware	24	static
+../CA_Src/CORE/core_cmd_pc_over_udp.c:309:15:PC_Status	24	static
+../CA_Src/CORE/core_cmd_pc_over_udp.c:336:15:PC_Slave	88	static
+../CA_Src/CORE/core_cmd_pc_over_udp.c:377:15:PC_SlaveNab	40	static
+../CA_Src/CORE/core_cmd_pc_over_udp.c:403:15:PC_SlaveFct	40	static
+../CA_Src/CORE/core_cmd_pc_over_udp.c:432:15:PC_SlaveAdd	40	static
+../CA_Src/CORE/core_cmd_pc_over_udp.c:457:15:PC_SlaveNbMot	40	static
+../CA_Src/CORE/core_cmd_pc_over_udp.c:482:15:PC_SlaveTpRep	40	static
+../CA_Src/CORE/core_cmd_pc_over_udp.c:507:15:PC_SlaveMem	48	static
+../CA_Src/CORE/core_cmd_pc_over_udp.c:587:8:CmdPcOverUdp	104	static

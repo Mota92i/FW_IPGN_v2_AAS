@@ -1,0 +1,4 @@
+../CA_Src/TASK/task_ethernet.c:62:13:voPhyInit	16	static
+../CA_Src/TASK/task_ethernet.c:89:13:voEthStatus_CallBack	16	static
+../CA_Src/TASK/task_ethernet.c:106:9:TaskEthernet_GetIpAddr	24	static
+../CA_Src/TASK/task_ethernet.c:132:6:task_ethernet	16	static

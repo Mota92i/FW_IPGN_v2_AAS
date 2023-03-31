@@ -1,0 +1,3 @@
+../CA_Src/OS/os_eventflag.c:58:6:voOsEventFlag_Init	8	static
+../CA_Src/OS/os_eventflag.c:67:6:voOsEventFlag_uSecDlyTmrWait	32	static
+../CA_Src/OS/os_eventflag.c:85:6:voOsEventFlag_uSecDlyTmrPost	24	static

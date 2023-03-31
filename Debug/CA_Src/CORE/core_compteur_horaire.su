@@ -1,0 +1,6 @@
+../CA_Src/CORE/core_compteur_horaire.c:76:16:s32ReadDataFromEeprom	40	static
+../CA_Src/CORE/core_compteur_horaire.c:116:17:u16GetCptAdress	32	static
+../CA_Src/CORE/core_compteur_horaire.c:161:10:u32ReadCptValue	24	static
+../CA_Src/CORE/core_compteur_horaire.c:188:16:s32WriteCptValue	32	static
+../CA_Src/CORE/core_compteur_horaire.c:235:9:s32CoreCompteurHoraire_Init	280	static
+../CA_Src/CORE/core_compteur_horaire.c:264:9:s32CoreCompteurHoraire_Process	24	static

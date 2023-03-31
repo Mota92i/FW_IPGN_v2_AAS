@@ -1,0 +1,6 @@
+../CA_Src/TASK/task_display.c:78:13:voSet_Luminosity	88	static
+../CA_Src/TASK/task_display.c:103:13:voPeriodicTimer_DiplayLed	16	static
+../CA_Src/TASK/task_display.c:140:13:voLuminositeProcess	16	static
+../CA_Src/TASK/task_display.c:215:13:voDisplayMotor_Process	8	static
+../CA_Src/TASK/task_display.c:231:6:voTaskApp_GetMotorPosition	16	static
+../CA_Src/TASK/task_display.c:247:6:task_display	24	static

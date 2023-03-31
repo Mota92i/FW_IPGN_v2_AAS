@@ -1,0 +1,13 @@
+../CA_Src/CORE/core_spec.c:137:16:s32ReadFromEeprom	32	static
+../CA_Src/CORE/core_spec.c:207:16:s32WriteToEeprom	32	static
+../CA_Src/CORE/core_spec.c:281:16:s32Consistency_DeviceInfo	24	static
+../CA_Src/CORE/core_spec.c:306:9:CoreSpec_DeviceInfoWrite	16	static
+../CA_Src/CORE/core_spec.c:322:16:s32Consistency_Brightness	24	static
+../CA_Src/CORE/core_spec.c:336:9:CoreSpec_BrightnessWrite	8	static
+../CA_Src/CORE/core_spec.c:352:16:s32Consistency_EtalonnageVoieDeMesure	24	static
+../CA_Src/CORE/core_spec.c:367:9:CoreSpec_EtalonnageVoieDeMesureWrite	16	static
+../CA_Src/CORE/core_spec.c:383:16:s32Consistency_ReglageMoteur	24	static
+../CA_Src/CORE/core_spec.c:419:9:CoreSpec_ReglageMoteurWrite	16	static
+../CA_Src/CORE/core_spec.c:435:16:s32Consistency_Spec	24	static
+../CA_Src/CORE/core_spec.c:468:9:CoreSpec_SpecWrite	16	static
+../CA_Src/CORE/core_spec.c:484:9:CoreSpec_Load	16	static

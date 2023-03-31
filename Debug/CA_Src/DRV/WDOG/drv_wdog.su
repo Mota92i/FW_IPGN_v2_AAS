@@ -1,0 +1,5 @@
+C:\Users\aseervatham\Documents\MCUXpressoIDE_11.5.0_7232\WorkSpace_Ipgn\IPGN\drivers/fsl_common_arm.h:568:24:DisableGlobalIRQ	16	static
+C:\Users\aseervatham\Documents\MCUXpressoIDE_11.5.0_7232\WorkSpace_Ipgn\IPGN\drivers/fsl_common_arm.h:595:20:EnableGlobalIRQ	24	static
+C:\Users\aseervatham\Documents\MCUXpressoIDE_11.5.0_7232\WorkSpace_Ipgn\IPGN\drivers/fsl_wdog.h:364:20:WDOG_Unlock	16	static
+../CA_Src/DRV/WDOG/drv_wdog.c:41:6:DrvWdog_Enable	16	static
+../CA_Src/DRV/WDOG/drv_wdog.c:52:6:DrvWdog_Refresh	24	static

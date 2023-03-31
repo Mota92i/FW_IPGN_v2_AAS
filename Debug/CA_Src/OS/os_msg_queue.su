@@ -1,0 +1,5 @@
+../CA_Src/OS/os_msg_queue.c:93:6:voOsMsgQueue_Init	32	static
+../CA_Src/OS/os_msg_queue.c:118:9:OsMsgQueue_SendToBack	24	static
+../CA_Src/OS/os_msg_queue.c:143:6:voOsMsgQueue_SendToFrontFromISR	24	static
+../CA_Src/OS/os_msg_queue.c:159:6:voOsMsgQueue_SendFromISR	24	static
+../CA_Src/OS/os_msg_queue.c:186:9:OsMsgQueue_Receive	40	static

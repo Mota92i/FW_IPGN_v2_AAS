@@ -1,0 +1,5 @@
+../CA_Src/DRV/SERIAL/drv_serial_idle_detection.c:65:6:DrvSerialIdleDetect_Init	16	static
+../CA_Src/DRV/SERIAL/drv_serial_idle_detection.c:84:6:DrvSerialIdleDetect_Open	16	static
+../CA_Src/DRV/SERIAL/drv_serial_idle_detection.c:93:6:DrvSerialIdleDetect_Close	24	static
+../CA_Src/DRV/SERIAL/drv_serial_idle_detection.c:116:6:DrvSerialIdleDetect_RefreshCpt	16	static
+../CA_Src/DRV/SERIAL/drv_serial_idle_detection.c:135:13:voIdleDetection_Process	16	static

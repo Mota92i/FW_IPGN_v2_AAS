@@ -1,0 +1,3 @@
+C:\Users\aseervatham\Documents\MCUXpressoIDE_11.5.0_7232\WorkSpace_Ipgn\IPGN\drivers/fsl_gpio.h:162:20:GPIO_PinWrite	24	static
+../CA_Src/DRV/MOTOR/drv_stepping_motor.c:58:6:voDrvSteppingMotor_SetPhase	72	static
+../CA_Src/DRV/MOTOR/drv_stepping_motor.c:106:10:u16DrvSteppingMotor_AngleToStep	24	static

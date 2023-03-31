@@ -1,0 +1,6 @@
+../CA_Src/CORE/core_motor.c:75:16:s16CalculEcart	24	static
+../CA_Src/CORE/core_motor.c:132:6:voCoreMotor_Init	8	static
+../CA_Src/CORE/core_motor.c:166:6:voCoreMotor_Process	32	static
+../CA_Src/CORE/core_motor.c:300:18:sCoreMotor_ProcessRecalage	24	static
+../CA_Src/CORE/core_motor.c:346:6:voCoreMotor_SetPositionToMoveToInAngle	16	static
+../CA_Src/CORE/core_motor.c:385:10:u16CoreMotor_CheckAngle	16	static

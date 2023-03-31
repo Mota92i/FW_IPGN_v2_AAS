@@ -1,0 +1,10 @@
+../CA_Src/CORE/core_app.c:102:6:voCoreApp_Init	40	static
+../CA_Src/CORE/core_app.c:128:13:voIndicateurCap	16	static
+../CA_Src/CORE/core_app.c:152:13:voIndicateurBarreAvant	24	static
+../CA_Src/CORE/core_app.c:164:13:voIndicateurBarreDirection	24	static
+../CA_Src/CORE/core_app.c:176:13:voIndicateurBarreArriere	24	static
+../CA_Src/CORE/core_app.c:200:13:voIndicateurVitesse	24	static
+../CA_Src/CORE/core_app.c:223:13:voScaleCurrentInput	32	static
+../CA_Src/CORE/core_app.c:279:13:voScaleCaAnemoGir	24	static
+../CA_Src/CORE/core_app.c:302:13:voIndicateur	64	static
+../CA_Src/CORE/core_app.c:354:9:sCoreApp_Process	40	static

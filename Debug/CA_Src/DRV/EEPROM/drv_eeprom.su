@@ -1,0 +1,2 @@
+../CA_Src/DRV/EEPROM/drv_eeprom.c:59:9:DrvEeprom_Read	56	static
+../CA_Src/DRV/EEPROM/drv_eeprom.c:146:9:DrvEeprom_Write	72	static

@@ -1,0 +1,2 @@
+../CA_Src/PROTOCOL/NMEA/protocol_nmea_helper.c:51:16:u8ProtocolNmeaHelper_GetChecksum	24	static
+../CA_Src/PROTOCOL/NMEA/protocol_nmea_helper.c:75:9:s32ProtocolNmeaHelper_VerifyChecksum	32	static

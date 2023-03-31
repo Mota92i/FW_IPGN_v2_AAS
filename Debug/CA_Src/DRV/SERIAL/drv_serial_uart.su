@@ -1,0 +1,10 @@
+../CA_Src/DRV/SERIAL/drv_serial_uart.c:48:13:voSetHalfDuplexMode	24	static
+../CA_Src/DRV/SERIAL/drv_serial_uart.c:74:6:voDrvSerialUart_IrqUartCb	16	static
+../CA_Src/DRV/SERIAL/drv_serial_uart.c:124:6:voDrvSerialUart_IrqTimerCb	16	static
+../CA_Src/DRV/SERIAL/drv_serial_uart.c:144:9:DrvSerial_Open	32	static
+../CA_Src/DRV/SERIAL/drv_serial_uart.c:238:9:DrvSerial_Close	24	static
+../CA_Src/DRV/SERIAL/drv_serial_uart.c:280:9:DrvSerial_Write	24	static
+../CA_Src/DRV/SERIAL/drv_serial_uart.c:305:9:DrvSerial_WriteInProgress	24	static
+../CA_Src/DRV/SERIAL/drv_serial_uart.c:315:9:DrvSerial_ReceiveInProgress	24	static
+../CA_Src/DRV/SERIAL/drv_serial_uart.c:336:9:DrvSerial_SetTimeOut	32	static
+../CA_Src/DRV/SERIAL/drv_serial_uart.c:362:10:DrvSerial_GetData	24	static

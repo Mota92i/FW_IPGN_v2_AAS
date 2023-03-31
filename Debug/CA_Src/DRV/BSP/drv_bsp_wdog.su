@@ -1,0 +1,2 @@
+../CA_Src/DRV/BSP/drv_bsp_wdog.c:40:6:DrvWDOG_Init	8	static
+../CA_Src/DRV/BSP/drv_bsp_wdog.c:45:6:DrvWDOG_Refresh	8	static

@@ -1,0 +1,8 @@
+../CA_Src/TASK/task_serial.c:98:13:SerialCom_Cb	16	static
+../CA_Src/TASK/task_serial.c:114:13:SetPortCom	56	static
+../CA_Src/TASK/task_serial.c:177:12:intTraitementMbus	312	static
+../CA_Src/TASK/task_serial.c:235:16:Execute_Normal	32	static
+../CA_Src/TASK/task_serial.c:294:16:Execute_Diagnostique	40	static
+../CA_Src/TASK/task_serial.c:344:13:voAutomateModbus	8	static
+../CA_Src/TASK/task_serial.c:367:13:voTraitementDisplay	32	static
+../CA_Src/TASK/task_serial.c:408:6:task_serial	32	static

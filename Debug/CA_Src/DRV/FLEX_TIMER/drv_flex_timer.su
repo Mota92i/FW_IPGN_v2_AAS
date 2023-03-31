@@ -1,0 +1,4 @@
+C:\Users\aseervatham\Documents\MCUXpressoIDE_11.5.0_7232\WorkSpace_Ipgn\IPGN\drivers/fsl_ftm.h:683:24:FTM_GetInputCaptureValue	16	static
+../CA_Src/DRV/FLEX_TIMER/drv_flex_timer.c:46:6:voDrvFlexTimer_Init	8	static
+../CA_Src/DRV/FLEX_TIMER/drv_flex_timer.c:105:13:voDrvFlexTimer2_Init	4	static
+../CA_Src/DRV/FLEX_TIMER/drv_flex_timer.c:177:10:u32DrvFlexTimer_GetTimerCaptureValue	24	static
